@@ -1,2 +1,0 @@
-# Linear_Algebra_For_ML
-Linear_Algebra_For_ML
